@@ -2,4 +2,4 @@
 ![](readme/3.jpg)
 ![](readme/4.jpg)
 
-×¢£º4ÖĞÑµÁ·Êı¾İÎÄ¼şÃû´Ó"5-trainingdata.txt"¸ÄÎª"trainingdata.txt"¡£
+æ³¨ï¼š4ä¸­è®­ç»ƒæ•°æ®æ–‡ä»¶ä»"5-trainingdata.txt"æ”¹ä¸º"trainingdata.txt"ã€‚
